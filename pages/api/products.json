@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "M&M Almonds",
+    "price": "1",
+    "image_url": "https://coffee-obedient-limpet-561.mypinata.cloud/ipfs/QmNY8eiE67Dnx4ibvmSB97vi1UhHiybAjnzkFzmLSkZgmo?_gl=1*qfjj66*_ga*MjI2OTY3OTIxLjE2OTY4NTExNzU.*_ga_5RMPXG14TE*MTY5NzM0MzI2OC4yLjEuMTY5NzM0NTE0My43LjAuMA..",
+    "description": "Fam Pack"
+  },
+  {
+    "id": 2,
+    "name": "Coke",
+    "price": "0.01",
+    "image_url": "https://coffee-obedient-limpet-561.mypinata.cloud/ipfs/QmaiM8DRX2kEL9KLBbPmpY25769Zg9FWgDy5ckPkJHWNKz?_gl=1*86nofv*_ga*MjI2OTY3OTIxLjE2OTY4NTExNzU.*_ga_5RMPXG14TE*MTY5NzM0MzI2OC4yLjEuMTY5NzM0NTI4MS4zNy4wLjA.",
+    "description": "Coke 600 ml"
+  }
+]
